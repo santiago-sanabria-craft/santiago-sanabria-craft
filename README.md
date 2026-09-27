@@ -15,9 +15,7 @@
 
 ## 🧭 Sobre mí
 
-Diseño y construyo **sistemas de IA y automatización** para negocios que quieren dejar de operar a mano. Lidero **Mantle Core Labs**, donde combino ingeniería, datos y producción de contenido para llevar negocios de "todo manual" a "todo orquestado" — agentes que atienden, automatizaciones que conectan, dashboards que muestran la verdad.
-
-La mayoría de mi trabajo vive en **repositorios privados** — son sistemas en producción para clientes reales, no proyectos de portafolio.
+Fundador de **Mantle Core Labs**, una agencia de IA y tecnología. Diseño y construyo sistemas operativos a medida para negocios en crecimiento: agentes de IA, automatización de procesos, bots sobre WhatsApp integrados a CRM y dashboards de datos para decisiones reales. Trabajo de punta a punta — auditoría operativa, arquitectura del sistema y entrega — para llevar negocios de "todo manual" a "todo orquestado".
 
 <br>
 
@@ -52,7 +50,7 @@ La mayoría de mi trabajo vive en **repositorios privados** — son sistemas en 
 <tr>
 <td>
 
-Estudio de transformación digital para negocios (clínicas, restaurantes, barberías, gimnasios, inmobiliarias y más): agentes de IA, automatización, bots de WhatsApp/CRM, dashboards y sistemas a medida.
+Agencia de IA y tecnología para negocios en crecimiento (clínicas, restaurantes, barberías, gimnasios, inmobiliarias, e-commerce y más): arquitectura operativa a medida, agentes de IA, automatización, bots de WhatsApp/CRM y dashboards. Propiedad total del sistema bajo cuentas del cliente, sin lock-in.
 
 **🔗 [mantlecorelabs.com](https://mantlecorelabs.com)**
 
@@ -60,31 +58,30 @@ Estudio de transformación digital para negocios (clínicas, restaurantes, barbe
 </tr>
 </table>
 
-**Unidades internas:**
-
-| Unidad | Enfoque |
-|---|---|
-| 🎬 MCL Motion Studio | Video generado (Remotion) |
-| 📹 MCL Video Studio | Producción y edición de video |
-| ✍️ MCL Editorial Studio | Contenido y copywriting |
-| 🔧 N8N Studio | Automatización de workflows |
-| 🔬 Research Studio | Investigación e inteligencia de mercado |
-
 <br>
 
 ## 🛠️ Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,postgres,notion,git,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,astro,react,nextjs,redis,mongodb,jupyter,notion,git,github,supabase,docker,gcp&theme=dark" />
 </p>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/APIs-6DB33F?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/CLIs-4D4D4D?style=flat-square&logo=gnubash&logoColor=white" />
+<img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud%20Console-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Hermes%20Agent-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenClaw-1A1A1A?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
 <img src="https://img.shields.io/badge/Meta%20Ads-0866FF?style=flat-square&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Remotion-000000?style=flat-square&logo=remotion&logoColor=white" />
 </p>
 
 <br>
