@@ -1,25 +1,55 @@
-<!-- <h1 align="center">Hola 👋, soy Santiago David Sanabria Varela</h1>
-<h3 align="center">Un apasionado desarrollador de IA de Paraguay</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smsprogramacion1236&label=Profile%20views&color=0e75b6&style=flat" alt="smsprogramacion1236" /> </p>
+# Santiago Sanabria
 
-<p align="left"> <a href=" https://twitter.com/smsprogramacion" target="blank"><img src="https://img.shields.io/twitter/follow/smsprogramacion?logo=twitter&style=for-the-badge" alt=" smsprogramacion" /></a> </p>
+### Fundador @ Mantle Core Labs — Construyo sistemas de IA y automatización
 
-- 🌱 Actualmente estoy aprendiendo **Lenguajes como R, Rust, Python y frameworks como Pandas, TensorFlow, Pytorch..**
+[![Mantle Core Labs](https://img.shields.io/badge/Mantle%20Core%20Labs-Fundador-0e75b6?style=for-the-badge)](#)
 
-- 💬 Pregúntame sobre **Python, ML , AL**
+</div>
 
-- 📫 Cómo contactarme **sanatiagodavidsanabriavarela@gmail.com**
+<br>
 
-<h3 align="left">Conéctate conmigo:</h3>
+## Qué hago
+
+- 🧠 Diseño e implemento **agentes de IA** aplicados a negocios reales (atención, ventas, soporte)
+- ⚙️ Construyo **sistemas de automatización** que conectan CRMs, WhatsApp, bases de datos y APIs
+- 🏗️ Lidero **Mantle Core Labs**, transformando la operación digital de negocios (clínicas, restaurantes, servicios) con IA y automatización
+- 📊 Diseño dashboards y flujos de datos para decisiones basadas en información real, no en intuición
+
+<br>
+
+## Lo que construí
+
+<table>
+<tr>
+<td width="100%">
+
+### Mantle Core Labs
+
+Estudio de transformación digital: agentes de IA, automatización con n8n, bots de WhatsApp integrados a CRM, y sistemas a medida para negocios que quieren dejar de operar manualmente.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Stack
+
 <p align="left">
-<a href="https: //twitter.com/smsprogramacion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/ icon/Social/twitter.svg" alt="smsprogramacion" height="30" width="40" /></a> </p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/OpenAI%20%2F%20Anthropic-412991?style=for-the-badge&logo=openai&logoColor=white" alt="AI APIs"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/WhatsApp%20API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp API"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://codeigniter.com " target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git- scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" objetivo ="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width= "40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </ a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg " alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a > <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons /mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src ="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" width="40" height="40"/> </a> <a href="https: //www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src= "https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https:/ /www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg " alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> < img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href ="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt ="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src= "https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https ://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain .svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> < a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg " alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https ://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain .svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" > <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> < a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg " alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> < img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> < img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smsprogramacion1236&show_icons=true&locale=en&layout=compact" alt="smsprogramacion1236" /> </p>
+<div align="center">
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=smsprogramacion1236&show_icons=true&locale=en" alt="smsprogramacion1236" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=santiago-sanabria-craft&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smsprogramacion1236&" alt="smsprogramacion1236" /></p> -->
+</div>
