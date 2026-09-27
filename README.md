@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santiago%20Sanabria&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fundador%20%26%20Arquitecto%20Operativo%20%40%20Mantle%20Core%20Labs&descAlignY=55&descSize=18" width="100%"/>
+<img src="assets/banner.svg" width="100%" alt="Santiago Sanabria, Fundador y Arquitecto Operativo de Mantle Core Labs" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Arquitecturas+operativas+para+negocios+reales;Agentes+de+IA+%2B+automatizaci%C3%B3n+%2B+datos;Del+caos+al+sistema" alt="Arquitecturas operativas para negocios reales" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Arquitecturas+operativas+para+negocios+reales;Agentes+de+IA+%2B+automatizaci%C3%B3n+%2B+datos;Del+caos+al+sistema" alt="Arquitecturas operativas para negocios reales" />
 
 <br><br>
 
 <a href="https://www.youtube.com/@santiago_sanabria"><img src="https://img.shields.io/badge/YouTube-24243e?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://www.linkedin.com/in/santiago-david-sanabria-varela"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/santiago-david-sanabria-varela"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn" /></a>
 <a href="https://www.instagram.com/santiago.sanabria.mcl/"><img src="https://img.shields.io/badge/Instagram-24243e?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.tiktok.com/@santiagosanabria.mcl"><img src="https://img.shields.io/badge/TikTok-24243e?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 
@@ -43,7 +43,7 @@ Cada proyecto arranca con una auditoría operativa gratuita y cierra con 30 día
 <a href="https://mantlecorelabs.com"><img src="https://img.shields.io/badge/mantlecorelabs.com-24243e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web de Mantle Core Labs" /></a>
 <a href="https://mantlecorelabs.com/blog"><img src="https://img.shields.io/badge/Blog_y_newsletter-24243e?style=for-the-badge&logo=rss&logoColor=white" alt="Blog y newsletter" /></a>
 <a href="https://instagram.com/mantlecorelabs"><img src="https://img.shields.io/badge/Instagram-24243e?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Mantle Core Labs" /></a>
-<a href="https://www.linkedin.com/company/mantle-core-labs/"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Mantle Core Labs" /></a>
+<a href="https://www.linkedin.com/company/mantle-core-labs/"><img src="https://img.shields.io/badge/LinkedIn-24243e?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn de Mantle Core Labs" /></a>
 </p>
 
 ## Stack
@@ -77,6 +77,6 @@ Cada proyecto arranca con una auditoría operativa gratuita y cierra con 30 día
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
