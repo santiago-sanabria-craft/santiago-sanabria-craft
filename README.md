@@ -46,6 +46,13 @@ Cada proyecto arranca con una auditoría operativa gratuita y cierra con 30 día
 <a href="https://www.linkedin.com/company/mantle-core-labs/"><img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn de Mantle Core Labs" /></a>
 </p>
 
+## Proyectos abiertos
+
+Sistemas completos que podés clonar y correr en tu propio negocio:
+
+- **[Sistema Clínica](https://github.com/santiago-sanabria-craft/sistema-clinica)**: secretaria virtual de WhatsApp para clínicas. Agenda turnos, envía recordatorios, confirma o libera turnos según la respuesta del paciente y hace seguimiento de leads, con un panel de control.
+- **[Reservas Sin Caos](https://github.com/santiago-sanabria-craft/reservas-sin-caos)**: reservas para restaurantes por WhatsApp. Toma reservas, envía recordatorios y libera mesas cuando alguien cancela, con un panel de reservas, clientes, pedidos y stock.
+
 ## Stack
 
 <p align="center">
