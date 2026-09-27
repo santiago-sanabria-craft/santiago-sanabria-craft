@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santiago%20Sanabria&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fundador%20%40%20Mantle%20Core%20Labs&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Santiago%20Sanabria&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fundador%20%26%20Arquitecto%20Operativo%20%40%20Mantle%20Core%20Labs&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://mantlecorelabs.com" target="_blank"><img src="https://img.shields.io/badge/mantlecorelabs.com-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <img src="https://img.shields.io/badge/Paraguay-0038A8?style=for-the-badge&logo=googlemaps&logoColor=white" />
@@ -15,7 +15,7 @@
 
 ## 🧭 Sobre mí
 
-Fundador de **Mantle Core Labs**, una agencia de IA y tecnología. Diseño y construyo sistemas operativos a medida para negocios en crecimiento: agentes de IA, automatización de procesos, bots sobre WhatsApp integrados a CRM y dashboards de datos para decisiones reales. Trabajo de punta a punta — auditoría operativa, arquitectura del sistema y entrega — para llevar negocios de "todo manual" a "todo orquestado".
+Fundador y Arquitecto Operativo de **Mantle Core Labs**, una agencia de IA y tecnología. Diseño arquitecturas operativas a medida — no software de catálogo — para negocios que quieren pasar del caos al sistema: agentes de IA, automatización de procesos, bots sobre WhatsApp integrados a CRM y dashboards de datos para decisiones reales. Trabajo de punta a punta, desde la auditoría operativa gratuita hasta la entrega y el acompañamiento continuo.
 
 <br>
 
@@ -50,7 +50,15 @@ Fundador de **Mantle Core Labs**, una agencia de IA y tecnología. Diseño y con
 <tr>
 <td>
 
-Agencia de IA y tecnología para negocios en crecimiento (clínicas, restaurantes, barberías, gimnasios, inmobiliarias, e-commerce y más): arquitectura operativa a medida, agentes de IA, automatización, bots de WhatsApp/CRM y dashboards. Propiedad total del sistema bajo cuentas del cliente, sin lock-in.
+Agencia de IA y tecnología para negocios en crecimiento (salud, restaurantes, founders B2B, contables, inmobiliarias, e-commerce, comercio y más): arquitectura operativa a medida, agentes de IA, automatización, bots de WhatsApp/CRM y dashboards.
+
+**Filosofía — 4 pilares no negociables:**
+- 🔓 **Libertad absoluta**: los datos y el sistema viven en infraestructura del cliente, sin lock-in
+- 🎯 **A medida**: diseño desde cero sobre operaciones reales, no catálogo
+- 🤝 **Acompañamiento real**: contacto directo con el arquitecto, no soporte por ticket
+- 🏗️ **Arquitectura integral**: sistemas completos y coherentes, no herramientas sueltas
+
+Auditoría operativa gratuita + 30 días de ajuste garantizados en cada entrega.
 
 **🔗 [mantlecorelabs.com](https://mantlecorelabs.com)**
 
