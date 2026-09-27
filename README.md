@@ -76,6 +76,8 @@ Agencia de IA y tecnología para negocios en crecimiento (clínicas, restaurante
 <img src="https://img.shields.io/badge/Google%20Cloud%20Console-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Lovable-FF6B6B?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/v0-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Hermes%20Agent-000000?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenClaw-1A1A1A?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 <img src="https://img.shields.io/badge/WhatsApp%20Business%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
