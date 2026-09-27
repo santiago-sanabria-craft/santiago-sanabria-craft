@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40" aria-hidden="true">
   <defs>
     <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#00ff87" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#00ff87"/>
-      <stop offset="1" stop-color="#4fd1ff" stop-opacity="0"/>
+      <stop offset="0" stop-color="#F5E9D0" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#F5E9D0"/>
+      <stop offset="1" stop-color="#F5E9D0" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <path d="M0 20H1200" stroke="url(#accent)" stroke-width="2"/>
+  <path d="M0 20H1200" stroke="url(#accent)" stroke-width="1.5"/>
 </svg>

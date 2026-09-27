@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Santiago Sanabria, Fundador y Arquitecto Operativo de Mantle Core Labs" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=00FF87&center=true&vCenter=true&width=720&lines=Me+gusta+construir+con+IA;Agentes+%2B+automatizaci%C3%B3n+%2B+datos;Del+caos+al+sistema" alt="Me gusta construir con IA" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=F5E9D0&center=true&vCenter=true&width=720&lines=Me+gusta+construir+con+IA;Agentes+%2B+automatizaci%C3%B3n+%2B+datos;Del+caos+al+sistema" alt="Me gusta construir con IA" />
 
 <br><br>
 
@@ -80,7 +80,7 @@ Sistemas completos que podés clonar y correr en tu propio negocio:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=santiago-sanabria-craft&show_icons=true&hide_border=true&count_private=true&bg_color=0a0a0a&title_color=00ff87&icon_color=4fd1ff&text_color=c0c0c0" height="165" alt="Estadísticas de GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=santiago-sanabria-craft&show_icons=true&hide_border=true&count_private=true&bg_color=161616&title_color=f5e9d0&icon_color=4fd1ff&text_color=c0c0c0" height="165" alt="Estadísticas de GitHub" />
 
 <br><br>
 
