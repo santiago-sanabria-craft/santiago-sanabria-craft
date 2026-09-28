@@ -17,34 +17,15 @@
 
 ## Sobre mí
 
-Diseño arquitecturas operativas para negocios en crecimiento: agentes de IA, automatizaciones y datos conectados en un solo sistema, en lugar de herramientas sueltas.
+Me gusta construir con IA: agentes, automatizaciones y sistemas de datos que reemplazan el trabajo manual. Aprendo haciendo, documento el proceso y comparto lo que sirve en YouTube y en repos abiertos que cualquiera puede clonar.
 
-Soy fundador y arquitecto operativo de [Mantle Core Labs](https://mantlecorelabs.com), una agencia de IA y tecnología con base en Asunción, Paraguay.
+Fundé [Mantle Core Labs](https://mantlecorelabs.com) ([@Mantle-Core-Labs](https://github.com/Mantle-Core-Labs)), donde llevo esto a nivel profesional: arquitecturas operativas a medida para negocios en crecimiento.
 
-## Qué hago
+## Cómo trabajo
 
-- Agentes de IA para atención, ventas y soporte, sobre WhatsApp e integrados al CRM.
-- Automatización de procesos con n8n y Make.
-- Dashboards para decidir con datos.
-- Proyectos de punta a punta: auditoría operativa, diseño, construcción por sprints y acompañamiento.
-
-## Mantle Core Labs
-
-Construimos sistemas a medida para salud, restaurantes, founders B2B, contables, inmobiliarias, e-commerce y comercio. Trabajamos con cuatro reglas:
-
-- **Libertad absoluta.** El sistema y los datos viven en las cuentas del cliente. Sin lock-in.
-- **A medida.** Se diseña sobre la operación real, no desde un catálogo.
-- **Acompañamiento real.** Hablás con quien construye, no con un ticket.
-- **Arquitectura integral.** Un sistema coherente, no herramientas sueltas.
-
-Cada proyecto arranca con una auditoría operativa gratuita y cierra con 30 días de ajustes incluidos.
-
-<p>
-<a href="https://mantlecorelabs.com"><img src="https://img.shields.io/badge/mantlecorelabs.com-161616?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web de Mantle Core Labs" /></a>
-<a href="https://mantlecorelabs.com/blog"><img src="https://img.shields.io/badge/Blog_y_newsletter-161616?style=for-the-badge&logo=rss&logoColor=white" alt="Blog y newsletter" /></a>
-<a href="https://instagram.com/mantlecorelabs"><img src="https://img.shields.io/badge/Instagram-161616?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Mantle Core Labs" /></a>
-<a href="https://www.linkedin.com/company/mantle-core-labs/"><img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMSAxIDAtNC4xMjUgMi4wNjIgMi4wNjIgMCAwIDEgMCA0LjEyNXpNNy4xMTkgMjAuNDUySDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn de Mantle Core Labs" /></a>
-</p>
+- De la idea al sistema que corre solo: entender el problema real antes de escribir una línea, después construir por ciclos cortos con avances visibles.
+- Menos herramientas, mejor conectadas — un sistema coherente antes que un montón de piezas sueltas.
+- Documentar y compartir: mis proyectos abiertos nacen de contenido real para YouTube, no al revés.
 
 ## Proyectos abiertos
 
